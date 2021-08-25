@@ -14,6 +14,13 @@ Each file contains the archive for better searching, you can click them if you w
 
 ### 0.3.8/DL
 * [sa-mp-0.3.DL-R1-install.exe](/archives/sa-mp-0.3.DL-R1-install.exe?raw=true)
+* [sa-mp-0.3.8-RC1-install.exe](/archives/sa-mp-0.3.8-RC1-install.exe?raw=true)
+* [sa-mp-0.3.8-RC2-install.exe](/archives/sa-mp-0.3.8-RC2-install.exe?raw=true)
+* [sa-mp-0.3.8-RC3-3-install.exe](/archives/sa-mp-0.3.8-RC3-3-install.exe?raw=true)
+* [sa-mp-0.3.8-RC3-4-install.exe](/archives/sa-mp-0.3.8-RC3-4-install.exe?raw=true)
+* [sa-mp-0.3.8-RC4-3-install.exe](/archives/sa-mp-0.3.8-RC4-3-install.exe?raw=true)
+* [sa-mp-0.3.8-RC4-4-install.exe](/archives/sa-mp-0.3.8-RC4-4-install.exe?raw=true)
+
 
 ### 0.3.7
 * [sa-mp-0.3.7-install.exe](/archives/sa-mp-0.3.7-install.exe?raw=true)
@@ -50,6 +57,9 @@ Each file contains the archive for better searching, you can click them if you w
 ### 0.3.8/DL
 * [samp03DL_svr_R1_win32.zip](/archives/samp03DL_svr_R1_win32.zip?raw=true)
 * [samp03DLsvr_R1.tar.gz](/archives/samp03DLsvr_R1.tar.gz?raw=true)
+* [samp038_svr_RC1_win32.zip](/archives/samp038_svr_RC1_win32.zip?raw=true)
+* [samp038_svr_RC4-1_win32.zip](/archives/samp038_svr_RC4-1_win32.zip?raw=true)
+* [samp038svr_RC4-1.tar.gz](/archives/samp038svr_RC4-1.tar.gz?raw=true)
 
 ### 0.3.7
 * [samp037_svr_R2-1-1_win32.zip](/archives/samp037_svr_R2-1-1_win32.zip?raw=true)
@@ -58,6 +68,23 @@ Each file contains the archive for better searching, you can click them if you w
 * [samp037svr_R2-1.tar.gz](/archives/samp037svr_R2-1.tar.gz?raw=true)
 * [samp037svr_R2-2-1.tar.gz](/archives/samp037svr_R2-2-1.tar.gz?raw=true)
 * [samp037svr_R3.tar.gz](/archives/samp037svr_R3.tar.gz?raw=true)
+
+### 0.3z
+* [samp03z_svr_R1-2_win32.zip](/archives/samp03z_svr_R1-2_win32.zip?raw=true)
+* [samp03z_svr_R1_win32.zip](/archives/samp03z_svr_R1_win32.zip?raw=true)
+* [samp03z_svr_R2-2_win32.zip](/archives/samp03z_svr_R2-2_win32.zip?raw=true)
+* [samp03z_svr_R3_win32.zip](/archives/samp03z_svr_R3_win32.zip?raw=true)
+* [samp03z_svr_R4_win32.zip](/archives/samp03z_svr_R4_win32.zip?raw=true)
+* [samp03zsvr_R1-1000p.tar.gz](/archives/samp03zsvr_R1-1000p.tar.gz?raw=true)
+* [samp03zsvr_R1-2-1000p.tar.gz](/archives/samp03zsvr_R1-2-1000p.tar.gz?raw=true)
+* [samp03zsvr_R1-2.tar.gz](/archives/samp03zsvr_R1-2.tar.gz?raw=true)
+* [samp03zsvr_R1.tar.gz](/archives/samp03zsvr_R1.tar.gz?raw=true)
+* [samp03zsvr_R2-2-1000p.tar.gz](/archives/samp03zsvr_R2-2-1000p.tar.gz?raw=true)
+* [samp03zsvr_R2-2.tar.gz](/archives/samp03zsvr_R2-2.tar.gz?raw=true)
+* [samp03zsvr_R3-1000p.tar.gz](/archives/samp03zsvr_R3-1000p.tar.gz?raw=true)
+* [samp03zsvr_R3.tar.gz](/archives/samp03zsvr_R3.tar.gz?raw=true)
+* [samp03zsvr_R4-1000p.tar.gz](/archives/samp03zsvr_R4-1000p.tar.gz?raw=true)
+* [samp03zsvr_R4.tar.gz](/archives/samp03zsvr_R4.tar.gz?raw=true)
 
 ### 0.3x
 * [samp03asvr_R4.tar.gz](/archives/samp03asvr_R4.tar.gz?raw=true)
