@@ -32,7 +32,7 @@ Each file contains the archive for better searching, you can click them if you w
 * [sa-mp-0.3z-R1-install.exe](/archives/sa-mp-0.3z-R1-install.exe?raw=true)
 * [sa-mp-0.3z-R2-install.exe](/archives/sa-mp-0.3z-R2-install.exe?raw=true)
  
-### 0.3x
+### 0.3a to 0.3x
 * [sa-mp-0.3a-install.exe](/archives/sa-mp-0.3a-install.exe?raw=true)
 * [sa-mp-0.3c-R3-install.exe](/archives/sa-mp-0.3c-R3-install.exe?raw=true)
 * [sa-mp-0.3c-install.exe](/archives/sa-mp-0.3c-install.exe?raw=true)
@@ -86,7 +86,7 @@ Each file contains the archive for better searching, you can click them if you w
 * [samp03zsvr_R4-1000p.tar.gz](/archives/samp03zsvr_R4-1000p.tar.gz?raw=true)
 * [samp03zsvr_R4.tar.gz](/archives/samp03zsvr_R4.tar.gz?raw=true)
 
-### 0.3x
+### 0.3a to 0.3x
 * [samp03asvr_R4.tar.gz](/archives/samp03asvr_R4.tar.gz?raw=true)
 * [samp03asvr_R4_win32.zip](/archives/samp03asvr_R4_win32.zip?raw=true)
 * [samp03asvr_R7.tar.gz](/archives/samp03asvr_R7.tar.gz?raw=true)
@@ -124,6 +124,12 @@ Each file contains the archive for better searching, you can click them if you w
 * [samp03xsvr_R2.tar.gz](/archives/samp03xsvr_R2.tar.gz?raw=true)
 * [samp03xsvr_R2_patch1.tar.gz](/archives/samp03xsvr_R2_patch1.tar.gz?raw=true)
 
+### 0.2x
+* [samp02Xserver.win32.zip](/archives/samp02Xserver.win32.zip?raw=true)
+* [samp02Xsvr.tar.gz](/archives/samp02Xsvr.tar.gz?raw=true)
+* [sa-mp-0.2.2-R3_a.exe](/archives/sa-mp-0.2.2-R3_a.exe?raw=true)
+* [sa-mp-0.2X-u1_2-install.exe](/archives/sa-mp-0.2X-u1_2-install.exe?raw=true)
+
 ### 0.1x
 * [samp01b-r2-cpp5.tar.gz](/archives/samp01b-r2-cpp5.tar.gz?raw=true)
 * [samp01b-r2-cpp6.tar.gz](/archives/samp01b-r2-cpp6.tar.gz?raw=true)
@@ -134,12 +140,6 @@ Each file contains the archive for better searching, you can click them if you w
 * [samp01bfix](/archives/samp01bfix?raw=true)
 * [samp01svr.libcpp5.tar.gz](/archives/samp01svr.libcpp5.tar.gz?raw=true)
 * [samp01svr.tar.gz](/archives/samp01svr.tar.gz?raw=true)
-
-### 0.2x
-* [samp02Xserver.win32.zip](/archives/samp02Xserver.win32.zip?raw=true)
-* [samp02Xsvr.tar.gz](/archives/samp02Xsvr.tar.gz?raw=true)
-* [sa-mp-0.2.2-R3_a.exe](/archives/sa-mp-0.2.2-R3_a.exe?raw=true)
-* [sa-mp-0.2X-u1_2-install.exe](/archives/sa-mp-0.2X-u1_2-install.exe?raw=true)
 
 ### LC-MP
 * [lcmpsvr01d.tar.gz](/archives/lcmpsvr01d.tar.gz?raw=true)
@@ -152,3 +152,4 @@ Each file contains the archive for better searching, you can click them if you w
 ### Others Archive
 * [browser-fix-01b.zip](/archives/browser-fix-01b.zip?raw=true)
 * [interiors.txt](/archives/interiors.txt?raw=true)
+
