@@ -7,11 +7,13 @@ Big thanks to KrustyKoyle to actually made a backup for this :heart:
 # File List
 Each file contains the archive for better searching, you can click them if you want to download it.
 
+## Patch downgrader
+* [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
+
 ## Client Archive
 
 ### 0.3.8/DL
 * [sa-mp-0.3.DL-R1-install.exe](/archives/sa-mp-0.3.DL-R1-install.exe?raw=true)
-
 
 ### 0.3.7
 * [sa-mp-0.3.7-install.exe](/archives/sa-mp-0.3.7-install.exe?raw=true)
@@ -122,5 +124,4 @@ Each file contains the archive for better searching, you can click them if you w
 
 ### Others Archive
 * [browser-fix-01b.zip](/archives/browser-fix-01b.zip?raw=true)
-* [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
 * [interiors.txt](/archives/interiors.txt?raw=true)
