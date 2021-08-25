@@ -1,11 +1,11 @@
 # SA-MP File Archive
-The fork of the original repo, with indexing (i guess). 
+The fork of the original repo, nothing else.
 
 Big thanks to KrustyKoyle to actually made a backup for this :heart:
 
 
 # File List
-Each file contains the archive for better searching, you can click them if you want to download it.
+You can click each file below if you want to download it.
 
 ## Patch downgrader
 * [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
