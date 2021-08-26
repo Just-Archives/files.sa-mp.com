@@ -1,7 +1,7 @@
 # SA-MP File Archive
 The fork of the original repo, nothing else.
 
-Big thanks to KrustyKoyle to actually made a backup for this :heart:
+Big thanks to KrustyKoyle and sa-mp-kr to actually made a backup for this :heart:
 
 
 # File List
